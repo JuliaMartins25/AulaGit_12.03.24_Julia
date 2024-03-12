@@ -8,7 +8,7 @@ let b = 5;
 //Realizo a operaçao de divisão
 let operaçao = a / b;
 
-//Exibo resultado
+//mostrar o resultado da operação
 console.log(resultado);
 
 //comando realizado por Julia Martins 
