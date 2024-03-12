@@ -1,6 +1,6 @@
 //github commit1
 //Declaro variavel A
-let a = 20;
+let numerador = 20;
 
 //Declaro variavel B
 let b = 5;
