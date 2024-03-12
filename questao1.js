@@ -10,3 +10,5 @@ let resultado = a / b;
 
 //Exibo resultado
 console.log(resultado);
+
+//comando realizado por Julia Martins 
