@@ -6,7 +6,7 @@ let numerador = 20;
 let denominador = 5;
 
 //Realizo a operaçao de divisão
-let operaçao = a / b;
+let operaçao = numerador / denominador;
 
 //mostrar o resultado da operação
 console.log(resultado);
