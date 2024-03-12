@@ -3,7 +3,7 @@
 let a = 20;
 
 //Declaro variavel B
-let b = 2;
+let b = 5;
 
 //Realizo a operaçao de divisão
 let resultado = a / b;
