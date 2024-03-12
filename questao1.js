@@ -12,3 +12,4 @@ let resultado = a / b;
 console.log(resultado);
 
 //comando realizado por Julia Martins 
+//thiago tenha piedade
