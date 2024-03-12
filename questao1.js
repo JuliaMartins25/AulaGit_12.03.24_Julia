@@ -1,9 +1,9 @@
 //github commit1
-//Declaro variavel A
+//Declaro variavel numerador
 let numerador = 20;
 
-//Declaro variavel B
-let b = 5;
+//Declaro variavel denominador
+let denominador = 5;
 
 //Realizo a operaçao de divisão
 let operaçao = a / b;
