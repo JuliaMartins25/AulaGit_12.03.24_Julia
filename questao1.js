@@ -12,4 +12,4 @@ let operaçao = numerador / denominador;
 console.log(resultado);
 
 //comando realizado por Julia Martins 
-//thiago tenha piedade
+//Thiago tenha piedade
